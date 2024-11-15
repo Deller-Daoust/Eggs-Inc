@@ -5,5 +5,5 @@ DONE TASKS
     WHEN a chicken enters the shed, the total number of chickens will increase, and so should profit over time.
     When a chicken spawns, there's a small chance for an evil one to spawn, you may choose what the evil one looks like
     If there are no remaining chickens, evil ones will leave the map and despawn.
-SEMI DONE
+SEMI DONE TASKS
     Evil Ones will chase and devour any chickens it reaches
